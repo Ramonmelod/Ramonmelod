@@ -3,7 +3,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/ramonmelod/ or in: `ramonmelo.com@gmail.com`.
 - ⚡ Fun fact about me: I have a passion for learning human languages, and currently, I can communicate at least in a basic level in German, Spanish, and Italian in addition to Portuguese and English of course.
 
- ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ramonmelod&layout=compact&bg_color=000&border_color=30A3DC&title_color=FFFFFF&text_color=FFF) 
  
 <!---
 Ramonmelod/Ramonmelod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
