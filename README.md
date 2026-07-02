@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Ramon Melo, an engineer from the Federal University of Santa Catarina.
 - 📫 How to reach me: https://www.linkedin.com/in/ramonmelod/ or in: `ramonmelo.com@gmail.com`.
-- ⚡ Fun fact about me: I have a passion for learning human languages, and currently, I can communicate at least in a basic level in German, Spanish, and Italian in addition to Portuguese and English of course.
 
  
 <!---
